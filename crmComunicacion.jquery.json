@@ -1,0 +1,26 @@
+{
+  "name": "crmComunicacion",
+  "title": "Crmcomunicacion",
+  "description": "crmComunicacion newsletter",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kbardi/crmComunicacion",
+  "author": {
+    "name": "kbardi",
+    "email": "bardi.kevin@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kbardi/crmComunicacion.git"
+  },
+  "bugs": "https://github.com/kbardi/crmComunicacion/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kbardi/crmComunicacion/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
